@@ -1,16 +1,22 @@
-### Hi there 👋
+<!-- Si quelqu'un passe par là, qu'il n'hésite pas à m'envoyer un message : JE CHERCHE UN STAGE ! -->
+# Hey there 👋, I'm Maxime
+ Currently training to become a full stack developer
 
-<!--
-**madaumur/madaumur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ---
+ 
+### Skills & Tools
+ 
+ #### Programming Languages:  
+![](https://img.shields.io/badge/-JAVA-acf2f6) ![](https://img.shields.io/badge/-C-acf2f6) ![](https://img.shields.io/badge/-JAVASCRIPT-acf2f6) ![](https://img.shields.io/badge/-SASS-acf2f6)
+ 
+ #### Frontend Development:
+![](https://img.shields.io/badge/-ANGULAR-f6eaac) ![](https://img.shields.io/badge/-CSS3-f6eaac) ![](https://img.shields.io/badge/-HTML5-f6eaac) ![](https://img.shields.io/badge/-TYPESCRIPT-f6eaac)
+ 
+ #### Backend Development:
+![](https://img.shields.io/badge/-EXPRESS-f6acac) ![](https://img.shields.io/badge/-NODE-f6acac) ![](https://img.shields.io/badge/-SPRING-f6acac)
 
-Here are some ideas to get you started:
+ ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20"/>](https://linkedin.com/in/madaumur)
