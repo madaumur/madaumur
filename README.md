@@ -4,7 +4,7 @@
 
  ---
  
-### Skills & Tools
+### Skills
  
  #### Programming Languages:  
 ![](https://img.shields.io/badge/-JAVA-acf2f6) ![](https://img.shields.io/badge/-C-acf2f6) ![](https://img.shields.io/badge/-JAVASCRIPT-acf2f6) ![](https://img.shields.io/badge/-TYPESCRIPT-acf2f6)
