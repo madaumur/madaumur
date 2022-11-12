@@ -1,5 +1,5 @@
 <!-- Si quelqu'un passe par là, qu'il n'hésite pas à m'envoyer un message : JE CHERCHE UN STAGE ! -->
-# Hey there 👋, I'm Maxime
+# Hey there 👋, I'm Maxime Daumur
  Currently training to become a full stack developer
 
  ---
