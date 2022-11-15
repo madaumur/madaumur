@@ -1,6 +1,8 @@
 <!-- Si quelqu'un passe par là, qu'il n'hésite pas à m'envoyer un message : JE CHERCHE UN STAGE ! -->
 # Hey there 👋, I'm Maxime Daumur
- Currently training to become a full stack developer
+I am currently training to become an **application developer** (in Clermont-Ferrand, France). This versatile training allows me to deepen my skills in desktop, web and mobile development. Beyond this technical aspect (which I have the occasion to practice with Agile), I am learning to learn! And this means I can quickly become operational, even on a language I don't know yet.
+
+*📝 - I am looking for a 12 week internship for January 2023*
 
  ---
 ### Skills
