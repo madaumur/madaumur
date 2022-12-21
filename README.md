@@ -15,7 +15,7 @@ I am currently training to become an **application developer** (in Clermont-Ferr
 ![HTML5](https://img.shields.io/badge/-HTML-CDCDFF?&logo=HTML5&logoColor=000) 
 ![CSS3](https://img.shields.io/badge/-CSS-CDCDFF?&logo=CSS3&logoColor=000) 
 ![SASS](https://img.shields.io/badge/-SASS-CDCDFF?&logo=SASS&logoColor=000)
-![Angular](https://img.shields.io/badge/-Angular-EBEBFF?&logo=AngularJS&logoColor=000) 
+![Angular](https://img.shields.io/badge/-Angular-CDCDFF?&logo=AngularJS&logoColor=000) 
  #### Backend Development:
 ![NodeJS](https://img.shields.io/badge/-Node.JS-FFCDCD?&logo=Node.js&logoColor=000) 
 ![ExpressJS](https://img.shields.io/badge/-Express-FFCDCD?&logo=Express&logoColor=000) 
