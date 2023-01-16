@@ -1,8 +1,8 @@
 <!-- Si quelqu'un passe par là, qu'il n'hésite pas à m'envoyer un message : JE CHERCHE UN STAGE ! -->
 # Hey there 👋, I'm Maxime Daumur
-I am currently training to become an **application developer** (in Clermont-Ferrand, France). This versatile training allows me to deepen my skills in desktop, web and mobile development. Beyond this technical aspect (which I occasionally practice with Agile), I am learning to learn ! And this means I can quickly become operational, even on a language I don't know yet.
+I am currently training to become a **application developer** (in Clermont-Ferrand, France). This versatile training allows me to deepen my skills in desktop, web and mobile development. Beyond this technical aspect (which I occasionally practice with Agile), I am learning to learn ! And this means I can quickly become operational, even on a language I don't know yet.
 
-*📝 - I am looking for a 12 weeks internship for January 2023*
+*📝 - I'm doing a full stack developer internship until April 7th*
 
  ---
 ### Skills
@@ -15,7 +15,8 @@ I am currently training to become an **application developer** (in Clermont-Ferr
 ![HTML5](https://img.shields.io/badge/-HTML-CDCDFF?&logo=HTML5&logoColor=000) 
 ![CSS3](https://img.shields.io/badge/-CSS-CDCDFF?&logo=CSS3&logoColor=000) 
 ![SASS](https://img.shields.io/badge/-SASS-CDCDFF?&logo=SASS&logoColor=000)
-![Angular](https://img.shields.io/badge/-Angular-CDCDFF?&logo=AngularJS&logoColor=000) 
+![Angular](https://img.shields.io/badge/-Angular-CDCDFF?&logo=AngularJS&logoColor=000)
+![React](https://img.shields.io/badge/-React-CDCDFF?&logo=react&logoColor=000)
  #### Backend Development:
 ![NodeJS](https://img.shields.io/badge/-Node.JS-FFCDCD?&logo=Node.js&logoColor=000) 
 ![ExpressJS](https://img.shields.io/badge/-Express-FFCDCD?&logo=Express&logoColor=000) 
