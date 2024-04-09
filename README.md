@@ -1,8 +1,8 @@
-<!-- Si quelqu'un passe par là, qu'il n'hésite pas à m'envoyer un message : JE CHERCHE UN STAGE ! -->
-# Hey there 👋, I'm Maxime Daumur
-After three years of computer science at university, and feeling frustrated by the lack of practice, I chose an adult training program to improve my knowledge and gain autonomy. Combining my academic discipline with this new learning method, I am curious and eager to take on the challenges I will encounter in the working world.
+# Hey there 👋, I'm Maxime DAUMUR
+After three years of university studies in computer science, I enrolled in an adult education program to enhance my knowledge and independence. By integrating the theoretical foundations of the university with the practical skills acquired in the program, I developed a versatile approach to problem-solving. 
+Since 2023, I've been involved in developing a solution aimed at simplifying the management of research activities.
 
-*📝 - I am currently looking for a developer position.*
+*📝 - I am currently Software Engineer at Université Clermont Auvergne*
 
  ---
 ### Skills
@@ -19,7 +19,7 @@ After three years of computer science at university, and feeling frustrated by t
 ![HTML5](https://img.shields.io/badge/-HTML-CDCDFF?&logo=HTML5&logoColor=000) 
 ![CSS3](https://img.shields.io/badge/-CSS-CDCDFF?&logo=CSS3&logoColor=000) 
 ![SASS](https://img.shields.io/badge/-SASS-CDCDFF?&logo=SASS&logoColor=000)
-![Angular](https://img.shields.io/badge/-Angular-CDCDFF?&logo=AngularJS&logoColor=000)
+![Angular](https://img.shields.io/badge/-Angular-CDCDFF?&logo=Angular&logoColor=000)
 <!-- ![React](https://img.shields.io/badge/-React-CDCDFF?&logo=react&logoColor=000) -->
  #### SGBD:
 ![MySQL](https://img.shields.io/badge/-MySQL-FFFFCD?&logo=MySQL&logoColor=000) 
