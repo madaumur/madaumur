@@ -1,5 +1,5 @@
 # Hey there 👋, I'm Maxime DAUMUR
-After three years of university studies in computer science, I enrolled in an adult education program to enhance my knowledge and autonomy. By integrating the theoretical foundations of the university with the practical skills acquired in the program, I developed a versatile approach to problem-solving. 
+After three years of university studies in computer science, I enrolled in an adult education program to enhance my knowledge and autonomy. By combining the core concepts I learned at university with the practical skills I acquired during the programme, I developed a polyvalent approach to problem solving. 
 Since 2023, I've been involved in developing a solution aimed at simplifying the management of research activities.
 
 *📝 - I am currently Software Engineer at Université Clermont Auvergne*
