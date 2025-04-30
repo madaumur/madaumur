@@ -1,6 +1,5 @@
 # Hey there 👋, I'm Maxime DAUMUR
-After three years of university studies in computer science, I enrolled in an adult education program to enhance my knowledge and autonomy. By combining the core concepts I learned at university with the practical skills I acquired during the programme, I developed a polyvalent approach to problem solving. 
-Since 2023, I've been involved in developing a solution aimed at simplifying the management of research activities.
+As a full-stack developer in an agile and dispersed team, I'm working on national-scale projects for higher education. With an interest in both software quality and user experience, I aim to build useful, maintainable and accessible applications.
 
 *📝 - I am currently Software Engineer at Université Clermont Auvergne*
 
